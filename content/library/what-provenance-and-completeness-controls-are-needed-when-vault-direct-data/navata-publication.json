@@ -1,0 +1,12 @@
+{
+  "schema": "navata-publication-manifest/v1",
+  "publicationId": "PUB-LIB-9006-r3-v28",
+  "itemId": "LIB-9006",
+  "contentRevision": 3,
+  "publicationSourceHash": "ae06452fc395d137fb49723f7348186ba6eef24547590a83fc0f7bfbc1b546dc",
+  "hashDefinition": "navata-source-hash/v1",
+  "route": "/insights/what-provenance-and-completeness-controls-are-needed-when-vault-direct-data",
+  "seoTitle": "Vault Direct Data for AI: Provenance and Completeness",
+  "canonicalUrl": "https://rohithkspersonal.github.io/insights/what-provenance-and-completeness-controls-are-needed-when-vault-direct-data",
+  "generatedBy": "navata-os-executor"
+}
