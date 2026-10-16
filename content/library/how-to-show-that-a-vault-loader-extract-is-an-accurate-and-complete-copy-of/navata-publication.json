@@ -1,0 +1,12 @@
+{
+  "schema": "navata-publication-manifest/v1",
+  "publicationId": "PUB-LIB-9002-r1-v23",
+  "itemId": "LIB-9002",
+  "contentRevision": 1,
+  "publicationSourceHash": "4f0828c7993de1cb93a1ab7563b45b9cd86832dab563eb89cb343ad348fce0e5",
+  "hashDefinition": "navata-source-hash/v1",
+  "route": "/insights/how-to-show-that-a-vault-loader-extract-is-an-accurate-and-complete-copy-of",
+  "seoTitle": "Vault Loader Extract: Proving Complete Record Copies",
+  "canonicalUrl": "https://rohithkspersonal.github.io/insights/how-to-show-that-a-vault-loader-extract-is-an-accurate-and-complete-copy-of",
+  "generatedBy": "navata-os-executor"
+}
